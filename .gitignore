@@ -1,0 +1,6 @@
+Python*archive/
+*.csv
+*.dat
+*.session
+*Secrets*
+*secrets*
