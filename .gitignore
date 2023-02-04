@@ -5,3 +5,5 @@ Python*archive/
 *Secrets*
 *secrets*
 *my_secrets*
+python_archive/
+*__pycache__*
